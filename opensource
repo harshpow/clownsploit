@@ -1243,7 +1243,6 @@ percentreader.MouseButton1Down:connect(function()
 	game.StarterGui:SetCore("SendNotification", {
 		Title = "Percent Reader";
 		Text = "Open console (F9) to see percents";
-		Icon = "rbxassetid://49125304"; 
 		Duration = 4;
 	})
 
@@ -1444,7 +1443,7 @@ TextLabel_2.Position = UDim2.new(0, 0, 0.776671648, 0)
 TextLabel_2.Size = UDim2.new(0, 372, 0, 57)
 TextLabel_2.ZIndex = 3
 TextLabel_2.Font = Enum.Font.Highway
-TextLabel_2.Text = "more scripts coming soon..."
+TextLabel_2.Text = "more scripts coming soon"
 TextLabel_2.TextColor3 = Color3.new(1, 1, 1)
 TextLabel_2.TextScaled = true
 TextLabel_2.TextSize = 30
